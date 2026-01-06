@@ -1,9 +1,9 @@
 .DS_Store
 __pycache__/
-*.py[cod]
 .env
 extra/
 pix2pix/
 *.ipynb_checkpoints/
-data/raw/     # 大文件不上传
-models/       # 模型文件不上传
+docx/
+.idea/
+data/raw/
