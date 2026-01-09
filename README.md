@@ -260,7 +260,7 @@ docker-compose up -d
 
 ```bash
 # 部署到Hugging Face Spaces
-git push https://huggingface.co/spaces/WjyAlone/contour-correction
+git push https://huggingface.co/spaces/Repiecer/contour-correction
 
 # 部署到Streamlit Cloud
 streamlit deploy src/web/streamlit_app.py
@@ -282,15 +282,11 @@ streamlit deploy src/web/streamlit_app.py
 3. 提交 Pull Request
 4. 改进文档
 
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
 ## 📞 联系方式
 
-- 项目维护者：[@WjyAlone](https://github.com/WjyAlone)
-- 问题反馈：[Issues](https://github.com/WjyAlone/weather-contour-ai/issues)
-- 讨论区：[Discussions](https://github.com/WjyAlone/weather-contour-ai/discussions)
+- 项目维护者：[@Repiecer](https://github.com/Repiecer)
+- 问题反馈：[Issues](https://github.com/Repiecer/weather-contour-ai/issues)
+- 讨论区：[Discussions](https://github.com/Repiecer/weather-contour-ai/discussions)
 
 ## 🙏 致谢
 
